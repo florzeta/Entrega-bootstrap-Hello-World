@@ -1,0 +1,15 @@
+body {
+  background-color: lavender;
+  background-size: contain;
+  font-size: 23px;
+  font-family: Oswald;
+  background-image: url(https://www.freepik.es/vector-gratis/fondo-abstracto-pintado-mano-acuarela_18776292.htm#query=fondos%20acuarela&position=8&from_view=keyword);
+  background-attachment: fixed;
+
+}
+/* main */
+.main .h1{
+  text-align: center;
+}
+
+
